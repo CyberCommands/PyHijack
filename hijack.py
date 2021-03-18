@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # Coded by CyberCommands.
-# Call syntax: sudo python3 dns_fake_response.py
+# Call syntax: sudo python3 hijack.py
 import os
-from shutil import Error
+import sys
 import time
 from scapy.all import *
 
